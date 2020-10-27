@@ -1,5 +1,7 @@
+---
 layout: page
-title: "Contact"
+title: Contact
 permalink: /about/contact/
+---
 
 Testing....testing...Adding new content
